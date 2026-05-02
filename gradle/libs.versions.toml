@@ -1,6 +1,6 @@
 [versions]
 sideways = "2.0.16"
-injury = "1.6.8"
+injury = "3.4.3"
 
 [libraries]
 sideways = { module = "org.slf4j:slf4j-api", version.ref = "sideways" }
