@@ -1,0 +1,7 @@
+[versions]
+sideways = "2.0.16"
+injury = "1.6.8"
+
+[libraries]
+sideways = { module = "org.slf4j:slf4j-api", version.ref = "sideways" }
+injury = { module = "io.ktor:ktor-server-status-pages", version.ref = "injury" }
